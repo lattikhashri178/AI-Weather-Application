@@ -5,6 +5,9 @@ AI Weather Assistant
 AI Weather Assistant is a simple AI-based weather application developed using Python and Streamlit.
 
 The application allows users to ask questions about the weather in natural language. It uses a Hugging Face LLM with Function Calling to identify the city and retrieve current weather information using the Open-Meteo API.
+<img width="1268" height="491" alt="Screenshot 2026-09-15 004720" src="https://github.com/user-attachments/assets/83b32b28-4737-4ad2-97a3-cc6317c3fc61" />
+<img width="922" height="333" alt="Screenshot 2026-09-15 005204" src="https://github.com/user-attachments/assets/4c9b6a8f-acd8-4efa-94d4-89672c524db5" />
+
 
 ## ✨ Features
 
@@ -42,5 +45,4 @@ Open-Meteo API
 Weather Information
       ↓
 AI Response
-<img width="1268" height="491" alt="Screenshot 2026-09-15 004720" src="https://github.com/user-attachments/assets/54e2fe0e-027b-4762-900a-9fd0a7422d69" />
-<img width="922" height="333" alt="image" src="https://github.com/user-attachments/assets/1c4f45fa-938c-4775-9e1a-21a7ae2e69ac" />
+
