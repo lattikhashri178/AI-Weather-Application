@@ -1,6 +1,6 @@
 AI Weather Assistant
 
-## 📌 About the Project
+##  About the Project
 
 AI Weather Assistant is a simple AI-based weather application developed using Python and Streamlit.
 
@@ -9,7 +9,7 @@ The application allows users to ask questions about the weather in natural langu
 <img width="922" height="333" alt="Screenshot 2026-09-15 005204" src="https://github.com/user-attachments/assets/4c9b6a8f-acd8-4efa-94d4-89672c524db5" />
 
 
-## ✨ Features
+##  Features
 
 - Ask weather questions in natural language
 - Get current weather information
@@ -29,7 +29,7 @@ The application allows users to ask questions about the weather in natural langu
 - Requests
 - Python-dotenv
 
-## 🔄 How It Works
+##  How It Works
 
 ```text
 User Question
