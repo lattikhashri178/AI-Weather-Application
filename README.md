@@ -20,7 +20,7 @@ The application allows users to ask questions about the weather in natural langu
 - Interactive Streamlit interface
 - Automatic city location detection
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
